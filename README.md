@@ -1,4 +1,4 @@
-# Python-Multiplayer
+# Python-Multiplayer-Basic
 
 
 ### It is a proof of concept of gaming over network and tranferring data in games on the same network.
