@@ -3,7 +3,7 @@
 
 ### It is a proof of concept of gaming over network and tranferring data in games on the same network.
 
-#### In this example the two clients are interacting with a server to move these boxes and upating location of the other player as well in real time.
+#### In this example the two clients are interacting with a server to move these boxes and upating location of the other player as well as own player in real time.
 
 ![Demo Gif](upload.gif)
 
